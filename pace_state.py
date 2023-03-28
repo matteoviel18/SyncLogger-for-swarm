@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 
-# pace that trigger the publication of the state
+# pace that triggers the publication of the state
 
 import rospy
 from std_msgs.msg import Empty
