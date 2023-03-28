@@ -244,7 +244,7 @@ if __name__ == '__main__':
     # Drivers initialization:
     cflib.crtp.init_drivers()
 
-    # Instantiation of Swarm:
+    # Instantiation of swarm:
     swarm = Swarm(uris, factory=_Factory())
 
     #  Opening communication
